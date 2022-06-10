@@ -8,3 +8,7 @@ y al dar clic en ello vuelve a retornar los gifs ya buscados.
 Habilidades aprendidas:
 Basicas de Angular, crear componentes, modulos, un solo servicio que funciona como comunicación entre todos los componentes
 y por último consumir un servicio http de GIPHY.
+
+##View
+
+https://blilllly.github.io/GifsApp-Angular/
